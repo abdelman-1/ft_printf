@@ -14,6 +14,8 @@
 #include <stdio.h>
 int main()
 {
+	    if (n == 0)
+        return (ft_putstr("(nil)"), 5);
 	int ii = 0;
 	// int j =  ft_printf("%%%%%%");
 	// int i = ft_printf("%%%%%%");
